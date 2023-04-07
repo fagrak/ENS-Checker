@@ -25,7 +25,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [localhost](http://localhost:3000) with your browser to see the result.
 
 For more info: [LearnWeb3 Junior Track](https://github.com/LearnWeb3DAO/Junior-Track/blob/main/Ethereum-Name-Service.md)
 
